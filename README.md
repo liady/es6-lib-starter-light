@@ -4,7 +4,7 @@ ES6 library starter
 [![Version](http://img.shields.io/npm/v/es6-lib-starter-light.svg)](https://www.npmjs.org/package/es6-lib-starter-light)
 [![Build Status](https://travis-ci.org/liady/es6-lib-starter-light.svg?branch=master)](https://travis-ci.org/liady/es6-lib-starter-light)
 
-A boilerplate for a Node ES6 library.
+> A light starter for a Node ES6 library.
 
 ## Quick usage
  1. Clone this repo.
