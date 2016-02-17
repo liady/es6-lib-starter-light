@@ -37,8 +37,8 @@ npm run test
 ```
 
 ### Configuration
-In `package.json`, change all the relevant entries so they match your library.<br/>
-Under the section `library`, you can configure library entry point (defaults to `library.js`)
+In `package.json`, change all the relevant entries so they match your details.<br/>
+Under `main`, you can configure library entry point (defaults to `./lib/library.js`)
 
 ## License
 MIT

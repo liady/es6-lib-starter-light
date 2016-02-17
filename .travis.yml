@@ -5,7 +5,8 @@ node_js:
   - "node"
   - "iojs"
 env:
-  - TEST_SUITE=test
+  - BUILD=build TEST_SUITE=test
+  - BUILD=build-test-es5 TEST_SUITE=test-es5
 script: 
-  - npm run build
+  - npm run $BUILD
   - npm run $TEST_SUITE
