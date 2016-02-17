@@ -1,7 +1,7 @@
 {
   "name": "es6-lib-starter-light",
   "description": "A light starter for a Node ES6 library.",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "./lib/library.js",
   "devDependencies": {
     "babel-cli": "^6.2.4",
