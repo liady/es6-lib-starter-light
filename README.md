@@ -1,4 +1,4 @@
-ES6 library starter
+ES6 library starter (light)
 ===========
 
 [![Version](http://img.shields.io/npm/v/es6-lib-starter-light.svg)](https://www.npmjs.org/package/es6-lib-starter-light)
